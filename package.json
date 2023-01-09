@@ -22,7 +22,7 @@
     "@angular/router": "~7.2.0",
     "core-js": "^2.5.4",
     "firebase": "^6.6.2",
-    "firebase-admin": "^8.8.0",
+    "firebase-admin": "^11.4.1",
     "moment": "^2.24.0",
     "rxjs": "~6.3.3",
     "sweetalert2": "^8.17.6",
